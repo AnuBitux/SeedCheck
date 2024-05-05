@@ -13,3 +13,4 @@ blockcypher
 pynacl
 varint
 argparse
+jsonpatch
