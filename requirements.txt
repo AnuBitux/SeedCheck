@@ -14,3 +14,4 @@ pynacl
 varint
 argparse
 jsonpatch
+packaging
