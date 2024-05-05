@@ -15,3 +15,4 @@ varint
 argparse
 jsonpatch
 packaging
+protobuf
