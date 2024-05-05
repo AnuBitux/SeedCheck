@@ -15,7 +15,7 @@ from hdwallet.symbols import BTC
 from hdwallet.utils import is_mnemonic
 
 # Edit this line if you need to use a specific working directory
-# os.chdir('/home/working_path')
+os.chdir('/home/anubitux/Tools/WalletTools/SeedCheck')
 
 blockcypherAPI = None   # if available, put your blockcypher API key here
 
