@@ -7,7 +7,7 @@ dnspython
 pycryptodomex
 cryptography
 requests
-hdwallet
+hdwallet==2.2.1
 blockcypher
 blockcypher
 pynacl
